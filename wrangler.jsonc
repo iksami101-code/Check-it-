@@ -1,0 +1,11 @@
+{
+  "name": "check-it-ai",
+  "main": "dist/server/index.mjs",
+  "compatibility_date": "2025-09-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "assets": { "directory": "dist/client", "binding": "ASSETS" },
+  "vars": {
+    "SUPABASE_URL": "https://c--3361fbd7-1c0d-4397-8816-c75bcb349365-prod.lovable.cloud",
+    "SUPABASE_PUBLISHABLE_KEY": "sb_publishable_uWQ-7FPVDv-YCIjqzz5IiQ_F4_KQA2M"
+  }
+}
